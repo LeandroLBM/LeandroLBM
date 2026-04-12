@@ -1,5 +1,16 @@
-## Hi there 👋
-
+# Oi! eu sou Leandro
+Estudante de Análise e Desenvolvimento de Sistemas (ADS) na Sptech School | Experiência prática em criar soluções web com JavaScript, HTML, CSS e Node.js
+---
+## ⚒️ Plataformas
+<div id="imagens">
+<img src="JavaScript_Logo.png" width="100px" height="100px">
+<img src="HTML_Logo.png" width="100px" height="100px">
+<img src="CSS_Logo.png" width="100px" height="100px">
+<img src="NodeJS_Logo.png" width="100px" height="100px">
+<img src="MySQL_Logo.png" width="100px" height="100px">
+<img src="Linux_Logo.png" width="100px" height="100px">
+<img src="Windowns_Logo.png" width="100px" height="100px">
+</div>
 <!--
 **LeandroLBM/LeandroLBM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
