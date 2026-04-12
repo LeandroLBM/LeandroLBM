@@ -1,5 +1,5 @@
 # Oi! eu sou Leandro
-Estudante de Análise e Desenvolvimento de Sistemas (ADS) na Sptech School | Experiência prática em criar soluções web com JavaScript, HTML, CSS e Node.js
+Estudante de Análise e Desenvolvimento de Sistemas (ADS) na São Paulo Tech School Experiência prática em criar soluções web
 ---
 ## ⚒️ Plataformas
 <div id="imagens">
