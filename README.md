@@ -9,7 +9,7 @@ Estudante de Análise e Desenvolvimento de Sistemas (ADS) na São Paulo Tech Sch
 <img src="NodeJS_Logo.png" width="100px" height="100px">
 <img src="MySQL_Logo.png" width="100px" height="100px">
 <img src="Linux_Logo.png" width="100px" height="100px">
-<img src="Windowns_Logo.png" width="100px" height="100px">
+<img src="Windows_Logo.png" width="100px" height="100px">
 </div>
 <!--
 **LeandroLBM/LeandroLBM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
