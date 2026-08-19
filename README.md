@@ -14,7 +14,7 @@ Cursando Análise e Desenvolvimento de Sistemas (ADS) na São Paulo Tech School 
 <img src="AWS_Logo.png" width="100px" height="100px">
 <img src="Google_Cloud_Logo.png" width="100px" height="100px">
 <img src="Adobe_Logo.png" width="100px" height="100px">
-<img src="Office 365_Logo.png" width="100px" height="100px">
+<img src="Office_365_Logo.png" width="100px" height="100px">
 </div>
 <!--
 **LeandroLBM/LeandroLBM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
