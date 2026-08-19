@@ -1,5 +1,5 @@
 # Oi! eu sou Leandro
-Estudante de Análise e Desenvolvimento de Sistemas (ADS) na São Paulo Tech School Experiência prática em criar soluções web.
+Cursando Análise e Desenvolvimento de Sistemas (ADS) na São Paulo Tech School e atuando como estagiário no time de Automação.
 ---
 ## ⚒️ Plataformas
 <div id="imagens">
