@@ -7,9 +7,14 @@ Cursando Análise e Desenvolvimento de Sistemas (ADS) na São Paulo Tech School 
 <img src="HTML_Logo.png" width="100px" height="100px">
 <img src="CSS_Logo.png" width="100px" height="100px">
 <img src="NodeJS_Logo.png" width="100px" height="100px">
+<img src="Ansible_Logo.png" width="100px" height="100px">
+<img src="Docker_Logo.png" width="100px" height="100px">
 <img src="MySQL_Logo.png" width="100px" height="100px">
 <img src="Linux_Logo.png" width="100px" height="100px">
-<img src="Windows_Logo.png" width="100px" height="100px">
+<img src="AWS_Logo.png" width="100px" height="100px">
+<img src="Google_Cloud_Logo.png" width="100px" height="100px">
+<img src="Adobe_Logo.png" width="100px" height="100px">
+<img src="Office_Logo.png" width="100px" height="100px">
 </div>
 <!--
 **LeandroLBM/LeandroLBM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
