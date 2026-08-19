@@ -4,6 +4,7 @@ Cursando Análise e Desenvolvimento de Sistemas (ADS) na São Paulo Tech School 
 ## ⚒️ Plataformas
 <div id="imagens">
 <img src="JavaScript_Logo.png" width="100px" height="100px">
+<img src="Java_Logo.png" width="100px" height="100px">
 <img src="HTML_Logo.png" width="100px" height="100px">
 <img src="CSS_Logo.png" width="100px" height="100px">
 <img src="NodeJS_Logo.png" width="100px" height="100px">
